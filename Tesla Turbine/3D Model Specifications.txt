@@ -1,0 +1,83 @@
+3D Model of Original Tesla Turbine
+
+Modeled as closely as possible to the original 1913 patent design of the Tesla Turbine
+
+3D Model Dimensions and Specifications
+--------------------------------------
+For a 4 disk turbine:
+
+1. Disks
+	- 3 inch diameter
+	- 1 inch diameter central exhaust hole
+	- three 1/8 inch radius connecting rod holes spaced equally around (0 degrees, 120 degrees, 240 degrees) and equidistant from center
+	- 1/8 inch thick
+
+2. Spokes
+	- Started with 1 1/2 inch radius circumscribed triangle
+	- triangle ends got a 3/8 inch fillet
+	- 3 point arc that makes the spokes
+		a. the 2 ends points are the "corner" points after the fillet
+		b. the 3rd middle point touches the circumscribed circle that makes the triangle for the inner connecting rod points
+		c. arc radius: 1 11/32 inch
+		d. arc angle: 79.36668086 degrees
+	- 1/4 radius keyed rotor hole (only 1 tooth as key)
+	- tooth key is 1/8 inch high and 1/8 inch wide
+	- three 1/8 inch radius outside connecting rod holes (center of holes are 3/4inch from center of disks)
+	- three 1/16 inch radius inner connecting rod holes (centered between edges of rotor circle and outer connecting rods)
+		a. Tesla patent seems to illustrate all connecting rod holes are identical in diameter
+		b. This model deviates from patent in this way (and is the only way it deviates from patent) due to spacing issues
+
+3. Outer Connecting Rods
+	- 7/64 inch radius rods (ideal radius would be 1/8 inch, but leaving room for printed model)
+	- 9/8 inches long
+
+4. Inner Connecting Rods (if any)
+	- 3/64 inch radius (ideal radius would be 1/16 inches, but leaving room for printed model)
+	- 9/8 inches long
+	- DEVIATION FROM PATENT: Because of the geometry of the spoke design, the exhaust holes are smaller than expected. Because of this, the inner connecting rods are being disposed of and the washer spacers are being altered as to not interfer with exhaust.
+
+5. Washer Spacers
+	- outer radius is 3/8in and the inner radius is 1/8in
+	- one key hole that is 1/8in wide by 1/16in high
+	- thickness of spacer is 1/8in
+	- DEVIATION FROM PATENT: Because of geometry of the spoke design, the exhaust holes are smaller than expected. Because of this, the inner connecting rods are being disposed of and the washer spacers are being altered as to not interfer with exhaust.
+
+6. Rotor Shaft
+	- 7/32 inch radius rotor shaft with one tooth key (ideal radius is 1/4inch)
+	- tooth is 3/32 inch high and 3/32 inch wide (ideal height and width would be 1/8inch)
+	- 1 1/2 inch long
+
+7.Stator End Casting (View looked at: top view)
+	- outer radius (flange included): 2 9/16in
+	- flange has twelve 1/4in diameter holes for fasteners to connect the end casting and the central ring
+	- at 1 9/16in radius from center is the beginning of the inner geometry of the end casting
+	- from 1 9/16in radius from center inward to 1 7/16in is a 1/8in thick wall
+	- from 1 7/16in radius inward to 5/8in radius from the center is marked out with concentric circles at 1/16in intervals
+	- the most inner marking is at 1/2in radius from the center, giving 1/8in spacer before exhaust hole
+	- the inner geometry for this model uses two circular grooves and three labyrinth packing like slots
+	- using rule of thumb of grooves being 1/2 depth of end casting thickness (what the patent picture seems to depict), the flange, grooves, slots are 1/4in deep/thick, while the rest is 1/2in deep/thick
+	- Starting at 1 9/16in circle, every 3/16in are extruded to 1/2in and while the remaining spots are extruded to 1/4in
+		a. this is a result of the chamfered - tappered circular grooves
+		b. the extra 1/16in extruded 1/2in is to be chamfered down to the 1/4in depth
+		c. from outer to inner tapper, these are the numbers that worked for each chamfer:
+			1. 1/8in chamfer at 62 degrees
+			2. 1/4in chamfer at 16 degrees
+			3. 1/16in chamfer at 76 degrees
+			4. 1/14in chamfer at 16 degrees
+	- After the slotted grooves are the three labyrinth packing slots are are 1/4in in depth. There are no tappers or necessary work to be done to this area.
+		a. these labyrinth packing slots are my interpretation of what is depicted and described in Tesla original patent. The other way to interpret it is to have the mating pair of slots on the end disks that form an interlocking labyrinth seal.
+	- After the labyrinth packing, is a 1/8in "wall" before the 1/2in opening for the exhaust and the rotor shaft
+
+8. Central Ring (View looked at: side view; perpendicular to cut out; parallel to disk faces)
+	- total length of central ring is 14/8in (ideal is 13/8in; leaving some room for disk pack; an extra 1/8in added to disk pack area)
+	- length of ring without flanges: 1 1/4in (ideal is 1 1/8in)
+	- length of flanges: 1/4in each
+	- both flanges have twelve 1/4in diameter holes for fasteners to connect the end castings and the central ring
+	- inlet port made tangential to disk pack
+	- inlet port made from cutting away tangential spot with a 1 1/2in long cylinder that circumscribes a 1/4in by 1/4in rectangular prism
+	- DEVIATION FROM PATENT: for this model, the inlet port will be left as a hole that is fitted with the proper tubing instead of having a protruding inlet nozzle as in Tesla's patent
+
+9. General Specifications for model
+	- Disk pack length: 9/8in
+	- Total turbine length: 3 1/2in with the rotor shaft protuding 1/4in out both sides
+	- Model performance and rpm stats are unknown as of 8/7/16

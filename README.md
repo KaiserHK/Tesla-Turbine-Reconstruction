@@ -15,3 +15,8 @@ This folder contains the SLDASM files for the turbine. The Disk Pack Assembly sh
  1. Some files may be missing. These are all the ones I can find and are certainly the majority of them.
  2. I am unsure if the current version of SolidWorks will open up the SLDPRT and SLDASM files or what the accuracy of the result would be.
  3. At the time, I did not think to export all the SolidWorks files to STLs nor did I think to document the process in much detail. Most of the parts were exported to 3D print them.
+
+# Closing Remarks
+ I remember this project being super fun and was a great introduction to SolidWorks and the world of 3D modeling. I worked on this during my summer break of freshman year to learn SolidWorks for the next semester and to explore the fascinating subject of Nikola Tesla's Turbine. I plan to come backt to  this subject of study and recreate the project as a professional. The main goals of redoing this project are 
+ 1. to be more precise in my modeling and 3D printing
+ 2. to document the process much more thoroughly, which would include heavy written documentation as well as photo and video records.
